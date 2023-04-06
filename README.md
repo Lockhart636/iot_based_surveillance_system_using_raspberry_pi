@@ -5,6 +5,8 @@ The system was tested with two IP cameras at frame rates between 10 to 15 fps, a
 
 At 720p a 3rd IP camera can be used with this code. Feel free to copy and customise the code for your own needs.
 
+Follow this guide to setup OpenCV on the Raspberry Pi 4 Model B: https://pyimagesearch.com/2018/09/19/pip-install-opencv/.
+
 Hardware details: 1x 8 GB Raspberry Pi 4 Model B (SBC), 1x PoE Hat D (from Pi Hut), 1x SanDisk Ultra 32 GB (micro-SD card), 1x TL-SF1005LP (PoE Network Switch), 2x IPC-T221H (IP Camera).
 
 SBC OS details: Raspberry Pi OS with Desktop, Debian version 11, bullseye, 64-bit.
