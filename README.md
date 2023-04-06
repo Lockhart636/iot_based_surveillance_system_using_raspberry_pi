@@ -19,4 +19,4 @@ N.B. The network switch is used to power the SBC and the IP cameras via PoE (Pow
 
 N.B. The IP address on eth0 of the raspberry Pi needs to be set to the same level of the IP addresses of the IP cameras in order for communication to occur e.g. set the IP address in the level 192.168.50.XX
 
-
+N.B. A 3D model case has been created that can house the Raspberry Pi 4 Model B, and the PoE Hat D. 
