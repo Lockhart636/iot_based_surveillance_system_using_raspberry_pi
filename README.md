@@ -14,3 +14,5 @@ Remote access software: VNC Viewer.
 BoM Price: ~£200.
 
 N.B. The code is CPU intensive, not RAM intensive. Thus, a 4 GB version can be used in place of the 8 GB version of the Raspberry Pi 4 Model B.
+
+N.B. The network switch is used to power the SBC and the IP cameras via PoE (Power-over-Ethernet).
